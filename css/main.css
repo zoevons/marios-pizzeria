@@ -110,49 +110,7 @@ textarea {
      clear: both;
    }
 
-   /* Nav Bar */
-   .mario {
-     color: #cc6600;
-     font-family: 'Merriweather', serif;
-     font-size: 28px;
-     padding: 20px 40px;
-     float: left;
-     margin: 0;
-   }
-
-   ul {
-     list-style-type: none;
-     margin: 0;
-     padding: 0;
-     background-color: #fff;
-   }
-
-   ul li {
-     float: right;
-   }
-
-   ul li a {
-     display: block;
-     color: #cc6600;
-     text-align: center;
-     padding: 5px 40px;
-     text-decoration: none;
-     font-size: 20px;
-     font-weight: bold;
-   }
-
-   ul li a:hover:not(.active) {
-     background-color: #111;
-   }
-
-   ul li a.active {
-     background-color: #4CAF50;
-   }
-
-   ul li.right {
-     float: right;
-   }
-
+   
    /* Menu */
    .menu-body {
      max-width: 680px;
